@@ -4,11 +4,11 @@ The student directory script helps manage a list of all the students who are enr
 
 ## How to use
 
-1. Run the file to retrive the interactive 
+1. Run the directory.rb  and students.csv files to retrive the interactive 
 ```shell
 ruby directory.rb students.csv
 ```
 
 2. Enter a number that matches with the task you would like the directory to do.
 
-3. To leave the menu, enter "9"
+3. Once, you have finished with the directory, you can leave by entering "9"
